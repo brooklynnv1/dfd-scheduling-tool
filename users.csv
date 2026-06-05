@@ -1,0 +1,27 @@
+Username,Password,Role,Employee ID
+admin,abc123,Supervisor,
+moates,abc123,Employee,403.0
+smith,abc123,Employee,404.0
+syrkett,abc123,Employee,405.0
+tilford,abc123,Employee,406.0
+cook,abc123,Employee,407.0
+thornton,abc123,Employee,408.0
+irvin,abc123,Employee,409.0
+kyser,abc123,Employee,410.0
+butler,abc123,Employee,411.0
+grice,abc123,Employee,412.0
+brock,abc123,Employee,413.0
+mcclue,abc123,Employee,414.0
+mann,abc123,Employee,415.0
+newberry,abc123,Employee,416.0
+benson,abc123,Employee,417.0
+gilmore,abc123,Employee,418.0
+yatooma,abc123,Employee,419.0
+hayes,abc123,Employee,420.0
+crenshaw,abc123,Employee,421.0
+robinson,abc123,Employee,422.0
+heikka,abc123,Employee,423.0
+king,abc123,Employee,424.0
+taylor,abc123,Employee,425.0
+thompson,abc123,Employee,426.0
+test,abc123,Employee,
